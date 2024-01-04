@@ -1,0 +1,3 @@
+[[Links]]
+
+Docker is used for developing and running applications within things called containers. So it in a way is like running a VM(Virtual Machine) instance of the application. For instance you want to create a website, you can create a docker container of apache. Completely configure it, and create the website itself and then run that instance of a docker container. So you could be on any computer, and call upon your created container and boot up your pre-created website

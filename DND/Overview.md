@@ -1,0 +1,2 @@
+
+You have probably seen my other repository for DnD, that was/is being changed to really only be the games I host and have a combined world. This will be a much larger overview of the topic as a whole.

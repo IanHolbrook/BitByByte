@@ -1,0 +1,1 @@
+CYOA stands for choose your own adventure, it is an extremely large genre from books to games.
